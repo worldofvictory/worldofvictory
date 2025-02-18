@@ -27,8 +27,8 @@ Ecco alcuni dei progetti su cui ho lavorato:
 
 
 ## 📫 Contattami
-- **Email:** [worldofvictory@example.com](mailto:arizona130892@gmail.com)
-- **LinkedIn:** [worldofvictory](https://www.linkedin.com/in/viktoriya-korniyenko/)
+- **Email:** [arizona130892@gmail.com](mailto:arizona130892@gmail.com)
+- **LinkedIn:** [link](https://www.linkedin.com/in/viktoriya-korniyenko/)
 
 
 ## 💬 Citazione
