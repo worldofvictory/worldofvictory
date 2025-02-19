@@ -9,8 +9,10 @@ Benvenuto nel mio profilo GitHub! Sono appassionato di programmazione, contribui
 - **Database:** FireBase, MongoDB
 - **Altro:** RESTful APIs, Metodologie Agile
 
+
 ## 📈 Statistiche GitHub
-![Statistiche GitHub di worldofvictory](https://github-readme-stats.vercel.app/api?username=worldofvictory&show_icons=true&theme=radical)
+![Statistiche GitHub di worldofvictory](https://github-readme-stats.vercel.app/api?username=worldofvictory&show_icons=true&theme=radical&icon_color=FF4500)
+
 
 ## 🏆 Linguaggi Principali
 ![Linguaggi Principali](https://github-readme-stats.vercel.app/api/top-langs/?username=worldofvictory&layout=compact&theme=radical)
