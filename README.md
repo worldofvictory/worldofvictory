@@ -3,9 +3,8 @@
 Benvenuto nel mio profilo GitHub! Sono appassionato di programmazione, contribuisco a progetti open-source e cerco sempre di apprendere nuove tecnologie.
 
 ## 🛠 Competenze e Tecnologie
-- **Linguaggi:** HTML, CSS, JavaScript
-- **Framework:** React, Node.js
-- **DevOps:** Docker
+- **Linguaggi:** HTML, CSS, JavaScript, TypeScript
+- **Framework:** React, Node.js, Vue3
 - **Database:** FireBase, MongoDB
 - **Altro:** RESTful APIs, Metodologie Agile
 
